@@ -11,4 +11,4 @@ jobs:
   validate:
     uses: skill-publisher/dev-skills/.github/workflows/validate-skill.yml@main
     with:
-      skill_name: sgc-install-tanstack-query
+      skill_name: lov-install-tanstack-query
