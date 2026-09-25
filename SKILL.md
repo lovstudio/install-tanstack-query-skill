@@ -14,11 +14,11 @@ compatibility: >
   Tauri, Electron, and SPA apps. Requires the project's package manager.
 metadata:
   author: contributors
-  version: "0.2.0"
+  version: "0.2.1"
   tags: tanstack-query react-query frontend refactor tauri network
 ---
 
-# install-tanstack-query — TanStack Query 初始化与重构
+# TanStack Query 接入 · TanStack Query Setup
 
 Use this skill to add TanStack Query to a project or refactor existing request
 state into a shared query/mutation layer.
