@@ -1,6 +1,6 @@
 # TanStack Query 接入 · TanStack Query Setup
 
-![Version](https://img.shields.io/badge/version-0.2.3-CC785C)
+![Version](https://img.shields.io/badge/version-0.2.4-CC785C)
 
 Initialize or refactor a frontend project to use TanStack Query as the shared
 server-state layer.
@@ -10,7 +10,7 @@ Independent source repository, also distributed through [lovstudio/skills](https
 ## Install
 
 ```bash
-npx skills add lov-install-tanstack-query -g -y
+npx lovstudio skills add install-tanstack-query -g -y
 ```
 
 Or through Claude Code plugin marketplace:
